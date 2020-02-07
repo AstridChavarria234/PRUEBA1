@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "API REST para pruebas en 5 minutos, publicado en internet",
+      "author": "@devrchancay",
+      "url": "https://medium.com/p/734d31660d1e/"
+    }
+  ],
+  "comments": [
+    {
+      "body": "¡Qué buen post! Gracias a esto vendi un proyecto millonario",
+      "postId": 1,
+      "profileId": 1
+    }
+  ],
+  "profile": {
+    "id": 1,
+    "name": "Ramón",
+    "nickname": "devrchancay"
+  }
+}
